@@ -4,3 +4,4 @@
 
     1.Testando os estágios.
     2.Testando conceitos dos resets.
+    3.Primeiro commit desse arquivo em server remote.
